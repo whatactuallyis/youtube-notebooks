@@ -6,3 +6,4 @@ Youtube için oluşturduğumuz içerikleri paylaştığımız notebook
 4. [Used Cars](https://data.world/data-society/used-cars-data)
 5. [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 6. [ChickWeight](https://www.kaggle.com/datasets/lsind18/weight-vs-age-of-chicks-on-different-diets)
+7. [Titanic](https://www.kaggle.com/competitions/titanic/)
